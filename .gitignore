@@ -1,0 +1,6 @@
+target/
+*.o
+*.obj
+.vscode/
+.idea/
+.DS_Store
