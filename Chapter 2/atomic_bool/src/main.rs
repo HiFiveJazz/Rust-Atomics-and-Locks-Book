@@ -17,7 +17,6 @@ fn main() {
             "help" => println!("commands: help. stop"),
             "stop" => break,
             cmd => println!("unknown command: {cmd:?}"),
-            _ => panic!(),
         }
     }
 
